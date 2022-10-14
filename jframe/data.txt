@@ -1,0 +1,7 @@
+tmp = 23.5 C 
+tmp = 23.3 C 
+tmp = 23.4 C 
+tmp = 23.5 C 
+tmp = 23.6 C 
+tmp = 24.1 C 
+tmp = 24.2 C 

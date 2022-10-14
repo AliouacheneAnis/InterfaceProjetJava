@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\21356\\Downloads\\jdatepicker-2.0.3.jar"
+    ]
+}
